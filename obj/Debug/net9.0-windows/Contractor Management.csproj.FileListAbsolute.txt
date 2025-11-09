@@ -1,0 +1,23 @@
+F:\tafe\tafe-csharp\Contractor Managemnent\bin\Debug\net9.0-windows\Resources\orbitron.ttf
+F:\tafe\tafe-csharp\Contractor Managemnent\bin\Debug\net9.0-windows\Contractor Management.exe
+F:\tafe\tafe-csharp\Contractor Managemnent\bin\Debug\net9.0-windows\Contractor Management.deps.json
+F:\tafe\tafe-csharp\Contractor Managemnent\bin\Debug\net9.0-windows\Contractor Management.runtimeconfig.json
+F:\tafe\tafe-csharp\Contractor Managemnent\bin\Debug\net9.0-windows\Contractor Management.dll
+F:\tafe\tafe-csharp\Contractor Managemnent\bin\Debug\net9.0-windows\Contractor Management.pdb
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\MainWindow.g.cs
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\App.g.cs
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management_Content.g.cs
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management_MarkupCompile.cache
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management_MarkupCompile.lref
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\MainWindow.baml
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.g.resources
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.GeneratedMSBuildEditorConfig.editorconfig
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.AssemblyInfoInputs.cache
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.AssemblyInfo.cs
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.csproj.CoreCompileInputs.cache
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.sourcelink.json
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.dll
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\refint\Contractor Management.dll
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.pdb
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\Contractor Management.genruntimeconfig.cache
+F:\tafe\tafe-csharp\Contractor Managemnent\obj\Debug\net9.0-windows\ref\Contractor Management.dll
