@@ -16,7 +16,7 @@ namespace Contractor_Management
 
         // Contractor is optional, if no contractor is assigned, it will be an available job
         public Contractor AssignedContractor { get; set; }
-        public Job(string title, float cost, DateTime date, Contractor newContractor = null, bool completed = false)
+        public Job(string title, float cost, DateTime date, Contractor? newContractor = null, bool completed = false)
         {
             Date = date;
             Completed = completed;

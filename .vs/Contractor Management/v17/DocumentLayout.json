@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\",
+  "WorkspaceRootPath": "F:\\tafe\\tafe-csharp\\Contractor Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor managemnent\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor management\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor managemnent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor management\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor managemnent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor management\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor managemnent\\recruitmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor management\\recruitmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:recruitmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor managemnent\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|f:\\tafe\\tafe-csharp\\contractor management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59BAE294-FEC8-4798-B8A2-811E9A306FD4}|Contractor Management.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Management\\Test1.cs",
+              "RelativeDocumentMoniker": "Test1.cs",
+              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Management\\Test1.cs",
+              "RelativeToolTip": "Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:19:42.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\MainWindow.xaml",
+              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Management\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\MainWindow.xaml",
+              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Management\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-09T03:14:50.365Z",
@@ -46,52 +67,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RecruitmentSystem.cs",
-              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\RecruitmentSystem.cs",
+              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Management\\RecruitmentSystem.cs",
               "RelativeDocumentMoniker": "RecruitmentSystem.cs",
-              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\RecruitmentSystem.cs",
+              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Management\\RecruitmentSystem.cs",
               "RelativeToolTip": "RecruitmentSystem.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T03:12:43.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Management\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Management\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAEwIkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAIAwwLUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T03:10:59.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Job.cs",
-              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\Job.cs",
+              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Management\\Job.cs",
               "RelativeDocumentMoniker": "Job.cs",
-              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\Job.cs",
+              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Management\\Job.cs",
               "RelativeToolTip": "Job.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T03:51:59.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Contractor.cs",
-              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\Contractor.cs",
+              "DocumentMoniker": "F:\\tafe\\tafe-csharp\\Contractor Management\\Contractor.cs",
               "RelativeDocumentMoniker": "Contractor.cs",
-              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Managemnent\\Contractor.cs",
+              "ToolTip": "F:\\tafe\\tafe-csharp\\Contractor Management\\Contractor.cs",
               "RelativeToolTip": "Contractor.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T11:43:00.093Z",
               "EditorCaption": ""

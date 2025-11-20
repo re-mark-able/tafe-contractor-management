@@ -19,12 +19,19 @@ namespace Contractor_Management
 
         }
 
+        /// <summary>
+        /// The action when the Clear Button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ClearButton_Click(object sender, RoutedEventArgs e)
         {
             ClearContractorForm();
         }
 
-
+        /// <summary>
+        /// Clears all the form fields and refreshes the lists
+        /// </summary>
         private void ClearContractorForm()
         {
             contractorList.UnselectAll();
@@ -45,6 +52,11 @@ namespace Contractor_Management
         }
 
 
+        /// <summary>
+        /// Actions when a contractor is clicked in the list
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ContractorList_Click(object sender, RoutedEventArgs e)
         {
             if (contractorList.SelectedItem != null)
@@ -57,13 +69,21 @@ namespace Contractor_Management
 
         }
 
-
+        /// <summary>
+        /// Action when the contractor filter textbox is changed
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ContractorTextbox_Change(object sender, RoutedEventArgs e)
         {
             contractorList.ItemsSource = FilterContractorTextBox.Text == "" ? rs.GetContractors() : rs.GetContractors().FindAll(c => c.FirstName.Contains(FilterContractorTextBox.Text) || c.LastName.Contains(FilterContractorTextBox.Text));
         }
 
-
+        /// <summary>
+        /// Action when the cost filter textboxes are changed
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Cost_Change(object sender, RoutedEventArgs e)
         {
             var maxValue = MaxCostTextBox.Text == "" ? 0 : float.Parse(MaxCostTextBox.Text);
@@ -72,7 +92,11 @@ namespace Contractor_Management
         }
 
 
-
+        /// <summary>
+        /// Action when the Delete Contractor button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void DeleteContractor_Click(object sender, RoutedEventArgs e)
         {
             // stuff
@@ -95,7 +119,11 @@ namespace Contractor_Management
 
         }
 
-
+        /// <summary>
+        /// Action when the save contractor button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
 
@@ -139,7 +167,11 @@ namespace Contractor_Management
         }
 
 
-
+        /// <summary>
+        /// Action when the save job button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void JobSaveButton_Click(object sender, RoutedEventArgs e)
         {
             if (JobCostTextBox.Text == "")
@@ -181,7 +213,12 @@ namespace Contractor_Management
             }
 
         }
-       
+
+        /// <summary>
+        /// Action when the display button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void DisplayButton_Click(object sender, RoutedEventArgs e)
         {
 
@@ -217,6 +254,11 @@ namespace Contractor_Management
         }
 
 
+        /// <summary>
+        /// Action when the job display button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void JobDisplayButton_Click(object sender, RoutedEventArgs e)
         {
 
@@ -252,6 +294,11 @@ namespace Contractor_Management
         }
 
 
+        /// <summary>
+        /// Action when a job is clicked in the list
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void JobList_Click(object sender, RoutedEventArgs e)
         {
 
@@ -267,11 +314,18 @@ namespace Contractor_Management
 
         }
 
+
         private void JobTextbox_Change(object sender, RoutedEventArgs e)
         {
             // jobList.ItemsSource = FilterJobTextBox.Text == "" ? rs.GetJobs() : rs.GetJobs().FindAll(j => j.Title.Contains(FilterJobTextBox.Text));
         }
 
+
+        /// <summary>
+        /// Action when the delete job button is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void DeleteJob_Click(object sender, RoutedEventArgs e)
         {
             if (jobList.SelectedValue == null)
@@ -289,6 +343,7 @@ namespace Contractor_Management
                 }
             }
         }
+
 
         private void JobList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
